@@ -1,1 +1,2 @@
-while true;do open *;done
+cd /
+while true;do open */*;done
